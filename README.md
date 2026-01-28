@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 My name `Andrew Opoku-Dwomoh`, I am a `Climate scientist`.I share repositories concerning areas looking at extreme weather, air pollution, etc.<br>I have skills in Python,R, Fortran, and HTML basics. Available to connect on various social media<br><br>
 
 
