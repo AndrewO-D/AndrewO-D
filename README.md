@@ -1,7 +1,7 @@
 # ✏️ Drew 
 
 **`Climate Scientist/Social Media Manager`**
- I'm an atmospheric scientist, and I share repositories in areas such as extreme weather, air pollution, atmospheric rivers, etc.<br>I have skills in Python, R, Fortran, and HTML basics. 
+ I'm an atmospheric scientist, and I share repositories on topics such as extreme weather, air pollution, atmospheric rivers, etc.<br>I have skills in Python, R, Fortran, and basic HTML. 
  Available to connect on various social media<br><br>
 
 ---
@@ -19,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AndrewO-D&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
