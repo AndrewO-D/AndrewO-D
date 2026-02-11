@@ -1,6 +1,6 @@
 # ✏️ Drew 
 
-**`Climate Scientist/Social Media Manager`**
+**`Climate Scientist`**
 
  I'm an atmospheric scientist, and I share repositories on topics such as extreme weather, air pollution, atmospheric rivers, etc.<br>I have skills in Python, R, Fortran, and basic HTML. 
  Available to connect on various social media<br><br>
